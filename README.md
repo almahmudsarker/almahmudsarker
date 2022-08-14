@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almahmudsarker
-- 👀 I’m interested in Cyber Security & Network Analyst
+- 👀 I’m interested in Cyber Security Analyst & SQL Dev
 - 🌱 I’m currently learning MERN & Ethical_Hacking
-- 💞️ I’m looking to collaborate on Graphics_Design & Photography Projects
+- 💞️ I’m looking to collaborate on Back-end & Photography Projects
 - 📫 Reach me -- mail/whattsapp/facebook
 
 <!---
