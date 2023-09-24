@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Full-Stack projects
 - 📫 Reach me -- mail:almahmudsarker@baiust.edu.bd/ whattsapp:+8801312363823/ Instagram:almahmudsarker7
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almahmudsarker&label=Profile%20views&color=0e75b6&style=flat" alt="almahmudsarker" /> </p>
-<img align="right" alt="Coding" width="350" height="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almahmudsarker" alt="almahmudsarker" /></a> </p>
 
