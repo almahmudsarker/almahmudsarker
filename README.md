@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm @almahmudsarker</h1>
 <h3 align="center">Hi! I'm Al Mahmud Sarker, I'm in my senior year at Bangladesh Army International University of Science & Technology, studying Computer Science. I enjoy being able to help people and solve problems, so I'm looking forward to putting my tech skills into practice by working as an Software Engineer & IT Support Specialist after I graduate.</h3>
+<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 👀 I’m interested in FullStack Engineer & Cyber Security Analyst
 - 🌱 I’m currently learning MERN & Ethical_Hacking
 - 💞️ I’m looking to collaborate on Full-Stack projects
 - 📫 Reach me -- mail:almahmudsarker@baiust.edu.bd/ whattsapp:+8801312363823/ Instagram:almahmudsarker7
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almahmudsarker&label=Profile%20views&color=0e75b6&style=flat" alt="almahmudsarker" /> </p>
-<img align="right" alt="Coding" width="200" height="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almahmudsarker" alt="almahmudsarker" /></a> </p>
 
