@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @almahmudsarker</h1>
+<h1 align="center">Programming Is Everything</h1>
 <h3 align="center">Hi! I'm Al Mahmud Sarker, I'm in my senior year at Bangladesh Army International University of Science & Technology, studying Computer Science. I enjoy being able to help people and solve problems, so I'm looking forward to putting my tech skills into practice by working as an Software Engineer & IT Support Specialist after I graduate.</h3>
 <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
