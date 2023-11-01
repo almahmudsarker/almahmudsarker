@@ -1,12 +1,13 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]([https://rishavchanda.io](https://stunning-peony-29fc00.netlify.app))
 <h1 align="center">Programming Is Everything</h1>
 
-# 👨‍💻 Hey there, I'm Al Mahmud Sarker.
+<h4 align="center">Hey there, I'm Al Mahmud Sarker</h4>
 
-Welcome to my GitHub profile. I'm in my senior year at Bangladesh Army International University of Science & Technology, studying Computer Science. I enjoy being able to help people and solve problems, so I'm looking forward to putting my tech skills into practice by working as an Software Engineer & IT Support Specialist after I graduate.
+<h6 align="center">Welcome to my GitHub profile. I'm in my senior year at Bangladesh Army International University of Science & Technology, studying Computer Science. I enjoy being able to help people and solve problems, so I'm looking forward to putting my tech skills into practice by working as an Software Engineer & IT Support Specialist after I graduate.</h6>
 
+<br>
 
-- 👀 I'm passionate about Full Stack Engineering and Cyber Security Analysis.
+- 👀 I'm passionate about Full Stack Engineering, IT and Cyber Security Analysis.
 - 🌱 Currently, I'm on a journey to master the MERN Stack and Ethical Hacking.
 - 💼 I'm always open to collaborate on exciting Full Stack web projects.
 - 📫 You can reach me via email at `almahmudsarker@baiust.edu.bd` or on WhatsApp at `+8801312363823`.
